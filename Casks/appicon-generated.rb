@@ -4,7 +4,7 @@ cask 'appicon-generated' do
 
   	# github.com/atom/atom was verified as official when first introduced to the cask
   	url "https://raw.githubusercontent.com/0x1306a94/homebrew-apps/master/AppIconGenerated.zip"
-  	name 'XcodeClangFormat'
+  	name 'AppIconGenerated'
   	homepage 'https://github.com/0x1306a94/homebrew-apps/blob/master/AppIconGenerated.zip'
 
   	auto_updates true
